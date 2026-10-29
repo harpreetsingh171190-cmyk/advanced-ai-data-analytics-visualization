@@ -1,0 +1,5 @@
+category,Baseline,Improved
+CPU,10,0
+CUDA,0,10
+Hybrid,0,10
+MPS,10,0

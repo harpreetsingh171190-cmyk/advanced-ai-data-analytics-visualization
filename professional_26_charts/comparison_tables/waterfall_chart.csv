@@ -1,0 +1,6 @@
+stage,delta_ms,start_ms
+Baseline,240,0
+Caching,-35,240
+Parallelism,-55,205
+Validation,12,150
+Final,162,0

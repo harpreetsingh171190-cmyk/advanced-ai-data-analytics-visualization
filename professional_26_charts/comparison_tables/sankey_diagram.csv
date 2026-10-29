@@ -1,0 +1,6 @@
+source,target,flow_units
+Input,CPU,40
+Input,GPU,60
+CPU,Valid,35
+GPU,Valid,55
+Valid,Export,90

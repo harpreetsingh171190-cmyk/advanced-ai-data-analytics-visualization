@@ -1,0 +1,7 @@
+task,start_day,duration_days,end_day
+Data ingestion,0,3,3
+EDA,2,4,6
+Baseline,5,5,10
+Optimization,8,8,16
+Validation,15,5,20
+Reporting,19,3,22
